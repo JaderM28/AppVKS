@@ -1,0 +1,11 @@
+# Ignoramos la carpeta Public
+Public/
+
+#Ignoramos el Archivo .env
+.env
+
+#Ignoramos el Archivo .config.json
+.config.json
+
+#Ignoramos Carpeta api
+api/
